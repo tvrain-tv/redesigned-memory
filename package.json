@@ -1,0 +1,22 @@
+{
+  "name": "@tvrain/redesigned-memory",
+  "version": "1.0.1",
+  "description": "",
+  "main": "mirrors.json",
+  "scripts": {
+    "test": "echo \"Warn: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvrain/redesigned-memory.git"
+  },
+  "author": "TVRAIN",
+  "license": "The Unlicence",
+  "bugs": {
+    "url": "https://github.com/tvrain/redesigned-memory/issues"
+  },
+  "homepage": "https://github.com/tvrain/redesigned-memory#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
